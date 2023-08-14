@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\LoginEkranı\LoginEkranı\bin\Debug\LoginEkranı.exe.config
+C:\Users\User\source\repos\LoginEkranı\LoginEkranı\bin\Debug\LoginEkranı.exe
+C:\Users\User\source\repos\LoginEkranı\LoginEkranı\bin\Debug\LoginEkranı.pdb
+C:\Users\User\source\repos\LoginEkranı\LoginEkranı\obj\Debug\LoginEkranı.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LoginEkranı\LoginEkranı\obj\Debug\LoginEkranı.Ana_giris.resources
+C:\Users\User\source\repos\LoginEkranı\LoginEkranı\obj\Debug\LoginEkranı.Properties.Resources.resources
+C:\Users\User\source\repos\LoginEkranı\LoginEkranı\obj\Debug\LoginEkranı.csproj.GenerateResource.cache
+C:\Users\User\source\repos\LoginEkranı\LoginEkranı\obj\Debug\LoginEkranı.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LoginEkranı\LoginEkranı\obj\Debug\LoginEkranı.exe
+C:\Users\User\source\repos\LoginEkranı\LoginEkranı\obj\Debug\LoginEkranı.pdb
+C:\Users\User\source\repos\LoginEkranı\LoginEkranı\obj\Debug\LoginEkranı.Form2.resources
